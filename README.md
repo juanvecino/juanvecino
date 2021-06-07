@@ -1,6 +1,6 @@
 ### Hi, I'm Juan Vecino
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvecino&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/juanvecino?tab=repositories
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvecino&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/juanvecino?tab=repositories)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvecino)](https://github.com/anuraghazra/github-readme-stats) -->
 
