@@ -4,6 +4,13 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvecino)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.juanvecino.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.juanvecino.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/juan-c-vecino-270905b4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20C.%20Vecino-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:juan.vecinodeharo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juan.vecinodeharo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 <!--
