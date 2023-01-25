@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/juan-c-vecino-270905b4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20C.%20Vecino-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:juan.vecinodeharo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juan.vecinodeharo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+<a href="https://twitter.com/JuanC_Vecino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-JuanC_Vecino-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 <!--
