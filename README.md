@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvecino&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/juanvecino?tab=repositories)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvecino)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvecino)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
